@@ -1,0 +1,30 @@
+<%- include('./partials/nav') %>
+  <main>
+    <section class="section-story">
+      <h1>GastroAcre</h1>
+      <h2>
+        Um pedacinho do Acre através de algumas receitas da gastronomia local.
+      </h2>
+      <h3>Qual é a história do Acre?</h3>
+      <p>
+        Você sabia que o que o Acre tem de pequeno em território possui em
+        grandiosidade gastronômica? Pois é. Geralmente quem passa por esse
+        estado localizado na região norte de nosso Brasil-sil-sil costuma
+        voltar com alguns quilinhos a mais. Quem é de lá, precisa se
+        controlar. E não é pra menos. É cada prato de dar água na boca. A
+        cultura acreana tem muita influência nordestina, por conta dos
+        migrantes que chegaram ao Acre para tentar ganhar a vida com a
+        borracha.
+      </p>
+    </section>
+    <section class="section-links">
+      <% for(let receita of receitas) { %>
+      <div class="link-revenues">
+       <a href="/revenues/<%=receita.link%>"><img src="<%=receita.caminhoImg%>" alt="foto do prato <%=receita.prato%>" /></a>
+       <strong><%=receita.prato%></strong> 
+      </div>
+     <% } %>
+    </section>
+  </main>
+  <%- include('./partials/footer') %>
+  

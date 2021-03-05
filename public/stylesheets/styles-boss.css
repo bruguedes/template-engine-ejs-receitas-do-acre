@@ -1,0 +1,46 @@
+/* *************************SMARTPHONE A PARTIR DE 375PX ******************************************* */
+.boss-img img {
+  border-radius: 50%;
+  width: 30%;
+  margin-top: 3vh;
+}
+.contato img {
+  margin-top: 3vh;
+  margin-bottom: 0;
+  width: 5%;
+  margin-left: 2%;
+  position: relative;
+  z-index: 2;
+  top: 10px;
+  right: 5px;
+}
+.boss-story > p {
+  display: block;
+  font-size: 1.2em;
+  line-height: 1.3em;
+}
+footer {
+  background: rgba(0, 0, 0, 0.5);
+  position: relative;
+  text-align: center;
+  top: 11vh;
+}
+/* *************************************************************************************************** */
+
+/* ******************************TABLET A PARTIR DE 500PX ******************************************* */
+@media (min-width: 500px) {
+  .boss-story > p {
+    font-size: 1.5em;
+    line-height: 1.6em;
+  }
+}
+/**************************************************************************************************** */
+
+/* ******************************DESKTOP A PARTIT DE 769PX******************************************* */
+@media (min-width: 769px) {
+  .boss-story > p {
+    display: block;
+    font-size: 2em;
+    line-height: 2.1em;
+  }
+}

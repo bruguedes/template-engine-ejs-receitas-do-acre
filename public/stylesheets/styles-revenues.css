@@ -1,0 +1,84 @@
+/* *************************SMARTPHONE A PARTIR DE 375PX ******************************************* */
+.section-story .img-iframe {
+  display: flex;
+  justify-content: left;
+  width: 100%;
+  margin-bottom: 2vh;
+}
+.img-iframe iframe {
+  width: 100%;
+  height: 40vh;
+  padding-left: 3%;
+  border-radius: 10%;
+}
+.img-iframe img {
+  display: none;
+  width: 30%;
+  border-radius: 10%;
+}
+.preparation-mode article {
+  font-size: 1.5em;
+  line-height: 1.6em;
+  padding-left: 2%;
+  margin-bottom: 1vh;
+  width: 100%;
+}
+.ingredients strong {
+  background-color: rgba(231, 194, 44, 0.5);
+}
+.mode li {
+  padding-top: 2vh;
+  padding-bottom: 2vh;
+  border-bottom: 2px black dashed;
+}
+/**************************************************************************************************** */
+
+/* ******************************TABLET A PARTIR DE 500PX ******************************************* */
+@media (min-width: 500px) {
+  .section-story .story-dish {
+    display: block;
+    font-size: 1.5em;
+  }
+}
+/**************************************************************************************************** */
+
+/* ******************************TABLET A PARTIR DE 500PX ******************************************* */
+@media (min-width: 769px) {
+  .section-story .story-dish {
+    display: block;
+    font-size: 2em;
+  }
+  @media (min-width: 769px) {
+    .section-story .img-iframe img {
+
+      display: block;
+    }
+    .ingredients ul {
+      border-right: 2px black solid;
+    }
+    .preparation-mode {
+      display: flex;
+      align-items: flex-start;
+      justify-content: space-around;
+    }
+    .preparation-mode .ingredients {
+      width: 40%;
+      border-right-width: 0px;
+      margin-right: 0px;
+    }
+    .preparation-mode .mode {
+      margin-top: 11px;
+      padding-left: 25px;
+      width: 60%;
+    }
+    .preparation-mode h3 {
+      border-bottom: 2px solid black;
+    }
+    .preparation-mode .mode h3 {
+      position: relative;
+      left: -25px;
+      top: -11px;
+      padding-left: 5px;
+    }
+  }
+}
