@@ -1,0 +1,48 @@
+<%- include('./partials/nav') %>
+    <main>
+      <section class="section-story">
+        
+
+        <h1> <strong><%= resultado.prato %></strong></h1> 
+        <div class="img-iframe">
+             <img src=<%= resultado.caminhoImg %> />  
+          <iframe
+            src=<%= resultado.iframe %>
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div> 
+        
+        
+        <p class="story-dish">
+          <%= resultado.historia %>
+        </p>
+        
+      </section>
+
+      <section class="preparation-mode">
+        <article class="ingredients">
+          <ul>
+
+            <h3>Ingredientes</h3>
+            <% for(let ingrediente of resultado.ingredientes) { %>
+            <li><%=ingrediente%></li>
+            <% } %>
+          </ul>
+        </article>
+        <article class="mode">
+          <ol>
+            <h3>Modo de Preparo</h3>
+            <% for(let preparo of resultado.modo) { %>
+              <li><%=preparo%></li>
+              <% } %>
+            
+          </ol>
+          <!-- <a href="../index.html"><img src="https://img.icons8.com/nolan/64/u-turn-to-left.png" /></a> -->
+        </article>
+        
+      </section>
+      <a href="/"><img src="/images/botao-voltar.png" /></a>
+    </main>
+    <%- include('./partials/footer') %>

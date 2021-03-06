@@ -114,7 +114,7 @@ let dadosReceita = [{
 
 {
   id: "4",
-  prato: "Quibe de arroz e mandioca",
+  prato: "Quibe de arroz",
   caminhoImg: "/images/pratos/quibe.jpg",
   link: "quibe",
   iframe: "https://www.youtube.com/embed/3cCOPHHNiew?start=19",
