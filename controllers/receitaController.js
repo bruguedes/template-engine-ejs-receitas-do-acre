@@ -1,5 +1,3 @@
-let dadosReceita  = require('../bdTeste/dadosReceita')
-let modelsReceita = require('../models/modelsReceita')
 
 const  baixaria = (req, res)=>{
       // let {link} = req.params
@@ -18,6 +16,7 @@ const  baixaria = (req, res)=>{
      
       return res.render('./revenues/quibe')
     } 
+   
 
 
 
@@ -26,4 +25,5 @@ module.exports = {
   cremeCupuacu,
   pirarucu,
   quibe,
+ 
 };

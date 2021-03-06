@@ -1,10 +1,11 @@
-const receita = require("../controllers/receitaController")
+const dadosReceita  = require('../bdTeste/dadosReceita')
 
-const pesquisaPorlink = (link,array)=>{
-    
-    return array.filter(item => item.link === link)
+const pesquisaPorId = (params)=>{
+    let resultado  = dadosReceita.find(item => item.link === params)
+   
+    return resultado
      
     } 
 module.exports = {
-    pesquisaPorlink,
+    pesquisaPorId,
 }
