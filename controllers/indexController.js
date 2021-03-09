@@ -1,12 +1,7 @@
-let dadosReceita  = require('../bdTeste/dadosReceita')
+let modalIndex = require("../models/modelsIndex");
+const index = (req, res) => {
+  let dadosReceita = modalIndex.getReceitas();
+  return res.render("index", { receitas: dadosReceita });
+};
 
-const index= (req, res)=>{
-  
-  // let receita = dadosReceita.filter(item => (item.id-1)<= dadosReceita.length) testes de loop
- 
-      return res.render('index', {receitas: dadosReceita})
-    }    
-
-
-
-module.exports = {index};
+module.exports = { index };

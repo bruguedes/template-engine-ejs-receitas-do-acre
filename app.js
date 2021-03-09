@@ -5,9 +5,10 @@ var cookieParser = require('cookie-parser');
 var logger = require('morgan');
 
 var indexRouter = require('./routes/index');
-var usersRouter = require('./routes/users');
 var sobreRouter = require('./routes/sobre');
 var revenuesRouter = require('./routes/revenues');
+
+const { urlencoded } = require('express');
 
 
 var app = express();
@@ -22,10 +23,15 @@ app.use(express.urlencoded({ extended: false }));
 app.use(cookieParser());
 app.use(express.static(path.join(__dirname, 'public')));
 
+
 app.use('/', indexRouter);
-app.use('/users', usersRouter);
 app.use('/sobre', sobreRouter);
 app.use('/revenues', revenuesRouter);
+
+
+
+
+
 
 
 

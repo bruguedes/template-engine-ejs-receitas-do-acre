@@ -1,0 +1,246 @@
+[
+	{
+		"id": "1",
+		"prato": "Baixaria",
+		"caminhoImg": "/images/pratos/baixaria.jpg",
+		"link": "baixaria",
+		"iframe": "https://www.youtube.com/embed/6ecoLmEdHUg",
+		"historia": "Sobre o 'batismo' do prato, existem muitas histórias, cada uma com uma\n    versão diferente. De acordo com o jornalista Alexandre Nunes, o nome\n    surgiu para separar uma briga depois que dois jornalistas debocharam\n    de um grupo de pessoas que chegava de uma festa para tomar café no\n    mercado. \"Eles já estavam 'alterados' pela bebida, quando chegou umas\n    senhoras de vestido longo e uns homens de fraque e gritaram: 'lá vem a\n    baixaria', então para não virar uma confusão a Toinha disse que\n    baixaria era o prato que eles pediram.",
+		"ingredientes": [
+			"500 g de cuscuz",
+			"1 kg de carne moída",
+			"2 cebola médias",
+			"4 tomates",
+			"1 maço de coentro",
+			"1 maço de cebolinha",
+			"1 pimenta de cheiro",
+			"4 dentes de alho",
+			"5 ovos"
+		],
+		"modo": [
+			" O primeiro passo é hidratar e temperar o cuscuz com a água, 8 copos americanos de água, e meia colher de café de sal.\n       Deixe hidratar por uns 10 minutos. Coloque o cuscuz em uma cuscuzeira, aperte com os dedos e coloque para cozinhar em \n       fogo médio por 15 minutos. Caso você não tenha uma cuscuzeira, estenda um pano de prato limpo, coloque o cuscuz hidratado\n        no centro, coloque a tampa de uma panela, e amarre como se fosse uma trouxinha, coloque a tampa na panela com 1 dedo de água\n         e cozinhe em fogo médio.",
+			" Enquanto o nosso cuscuz cozinha, vamos cortar nossos legumes. Corte a cebola em cubos\n          pequenos e o tomate também, pique\n       o alho e a pimenta bem picadinhos, corte a cebolinha e o coentro bem fininhos.",
+			"Agora tempere sua carne moída com sal e pimenta, em uma panela aquecida, refogue a carne com um pouco de óleo, quando a \n      a carne da estiver quase cozida, coloque metade da cebola (deixe a outra metade para o vinagrete) e logo em seguida o alho\n       e a pimenta, quando a carne estiver pronta, coloque a cebolinha picada.",
+			"Para o vinagrete, junte a cebola, o tomate e o coentro e tempere com sal e limão.",
+			"Frite os ovos na manteiga. Todos os nossos preparos estão prontos agora é só juntar todo mundo e comer!"
+		]
+	},
+	{
+		"id": "2",
+		"prato": "Creme de cupuacu",
+		"caminhoImg": "/images/pratos/creme-cupuacu.webp",
+		"link": "creme-cupuacu",
+		"iframe": "https://www.youtube.com/embed/esX4KRrCKAM",
+		"historia": "O cupuaçu é uma fruta típica da região de floresta amazônica, e isso\n    inclui o Acre. Na região não é feita apenas creme com essa fruta, mas\n    diversos tipos de doces. Além de bombons, também é comum ver picolés e\n    sorvetes, não só na região Norte, mas em todo o País.\n    Tempo de preparo de 20 minutos e rende até 10 porções.",
+		"ingredientes": [
+			"500 g de polpa de cupuaçu ",
+			"1 lata de creme de leite ",
+			"1 lata de leite condensado ",
+			"100 ml de água "
+		],
+		"modo": [
+			"Acrescente todos os ingredientes no liquidificador, mexa um pouco e bata até virar um creme homogêneo.",
+			"Despeje em uma travessa e leve ao congelador",
+			"Depois de cerca de 3 horas, sirva."
+		]
+	},
+	{
+		"id": "3",
+		"prato": "Pirarucu a casaca",
+		"caminhoImg": "/images/pratos/pirarucu.jpg",
+		"link": "pirarucu",
+		"iframe": "https://www.youtube.com/embed/xBw-vLaE7Hk",
+		"historia": " Saboroso e tipicamente brasileiro, o pirarucu é o maior dos peixes de\n    água doce (pode chegar a 2 metros) e aparece em inúmeras receitas da\n    culinária amazônica, originalmente do estado do Amazonas o acreano\n    adotou e acrecentando seu tempero caracteristico.O prato tem diversos\n    acompanhamentos e chega às mesas todo enfeitado, por isso recebe o\n    nome “de casaca”. Essa sugestão é ótima para as comemorações e fins de\n    semana com a família. Rende 8 porções e tem um tempo de preparo de\n    1h20, além dos preparativos da véspera.",
+		"ingredientes": [
+			"1 kg de pirarucu salg0Olhandoado",
+			"1,5 kg de mandioca sem o fio central",
+			"2 batatas",
+			"Óleo de milho para fritar",
+			"½ cebola em tiras",
+			"3 dentes de alho picados",
+			"3 colheres (sopa) de azeite de oliva",
+			"3 tomates sem pele e sem sementes cortados em tiras",
+			"2 colheres (sopa) de manteiga",
+			"½ de xícara (chá) de azeitona verde picada",
+			"½ maço de salsinha picada",
+			"1 copo (americano) de leite",
+			"1 copo (americano) de farinha de mandioca grossa ou farinha d'água",
+			"2 bananas-da-terra em fatias finas na vertical",
+			"3 ovos cozidos em rodelas",
+			"Sal e pimenta-do-reino a gosto"
+		],
+		"modo": [
+			"Dessalgue o pirarucu em água gelada por 20 horas, trocando o líquido três ou quatro vezes.",
+			"Cozinhe a mandioca com água salgada até cobrir; retire do fogo quando estiver desmanchando.\n     Bata no liquidificador com a água do cozimento e reserve.",
+			"Rale a batata e deixe de molho em água com gelo por 30 minutos. Frite em óleo quente, até dourar levemente. \n    Espere esfriar e guarde em um pote fechado para não murchar.",
+			"Corte o peixe em lascas. Refogue a cebola e metade do alho no azeite. Junte o pirarucu, refogue um pouco\n     e acrescente o tomate e a azeitona. Quando o peixe estiver cozido, acerte o sal e adicione a salsinha.",
+			"Refogue o alho restante em 1 colher (sopa) de manteiga. Junte o creme de mandioca, o leite,\n     o sal e a pimenta-do-reino. Espere aquecer.",
+			"Em uma travessa, espalhe uma camada fina do creme de mandioca. Cubra com o pirarucu e faça nova camada de creme.\n     Polvilhe a farinha de mandioca.",
+			"Grelhe a banana-da-terra em 1 colher (sopa) de manteiga e distribua sobre a farinha.\n     Decore com os ovos e a batata palha e sirva. Bom apetite!"
+		]
+	},
+	{
+		"id": "4",
+		"prato": "Quibe de arroz",
+		"caminhoImg": "/images/pratos/quibe.jpg",
+		"link": "quibe",
+		"iframe": "https://www.youtube.com/embed/3cCOPHHNiew?start=19",
+		"historia": " O quibe foi incorporado à gastronomia acreana com mudanças bastante\n    significativas no seu preparo, como a massa de macaxeira, raiz\n    bastante consumida em toda a Amazônia. A criatividade e paladar do\n    acreano foi além, o arroz também pode substituir a tradicional massa\n    do quibe. Em outros estados o quibe de macaxeira é conhecido como\n    croquete de carne, mas em qualquer lanchonete e restaurantes do Acre\n    os quibes de macaxeira e de arroz são sempre uma ótima pedida.",
+		"ingredientes": [
+			"2 xícaras de arroz",
+			"2 colheres de chá de colorau",
+			"2 colheres de chá (rasas) de sal",
+			"4 xícaras de água",
+			"400g de carne bovina moída",
+			"2 dentes de alho amassadinhos",
+			"2 raminhos de hortelã",
+			"2 raminhos de ceha",
+			"1 colher de chá de colorau",
+			"sal a gosto"
+		],
+		"modo": [
+			"Massa de arroz: Junte todos os ingredientes da massa de arroz em\n    uma panela e leve ao fogo médio. Quando começar a ferver, tampe\n    a maior parte da panela, baixe o fogo e cozinhe até a água\n    secar. Depois desligue o fogo e tampe completamente a panela por\n    cerca de 5 minutos. Feito isso, amasse o arroz cozido com um\n    pilão ou passe num processador. Reserve.",
+			" Para o recheio: Misture os ingredientes em uma frigideira\n    anti-aderente e refogue esta carne temperada. Caso grude, você\n    pode utilizar a técnica do pinga e frita, pingando um pouco de\n    água nos lugares onde a carne está grudando. Refogue até ficar\n    bem sequinha.",
+			"Modele a massa do arroz e/ou da mandioca, em formato de quibe,\n    colocando dentro o recheio. Como a massa da mandioca não leva\n    ovo, nem farinha na sua composição, será necessário sempre\n    passar farinha de trigo nas mãos para evitar que grude em seus\n    dedos. Frite em óleo quente e sirva com pimenta."
+		]
+	},
+	{
+		"id": "5",
+		"prato": "Rabada no Tucupi",
+		"caminhoImg": "/images/pratos/rabada-tucupi.jpg",
+		"link": "rabada-tucupi",
+		"iframe": "https://www.youtube.com/embed/JSw1DTaqyA4",
+		"historia": " A Rabada tem origem europeia e surgiu como uma sopa de rabo de boi muito\n     apreciada em Portugal e na França. Aqui no Brasil é um prato típico dos sertões, mas\n      que na década de 20 se popularizou e começou a ser servido em bares e restaurantes. serve 8 pessoas,\n      tempo de preparo de 80 minutos",
+		"ingredientes": [
+			"1 litro de tucupi",
+			"1 1/2 litro de água com sal a gosto",
+			"1 1/2 litro de água fervente",
+			"1 tablete de caldo de carne",
+			"1 colher (chá) de glutamato monossódico",
+			"5 pimentas de cheiro picadas",
+			"Sal, pimenta-do-reino e cheiro verde picado a gosto (cebolinha, e coentro)",
+			"3 maços de jambu lavados",
+			"Alho picado a gosto",
+			"1 colher (sopa) de óleo",
+			"2 rabos de boi limpos e cortados nas juntas",
+			"1 cebola média picada"
+		],
+		"modo": [
+			"Numa panela de pressão. refogue, o óleo, cebola, alho e acrescente os rabos de boi.\n      Deixe dourar um pouco e tempere com sal, pimenta-do-reino, cheiro verde e pimentas de cheiro.",
+			" Deixe pegar pressão e cozinhe por 45 minutos.",
+			"Depois, abra a panela, retire o excesso de óleo e adicione o tucupi, o glutamato monossódico e deixe ferver.",
+			"Numa outra panela coloque a água com sal e ferva.",
+			"Escalde o jambu e reserve.",
+			"Próximo da hora de servir, junte o jambu na rabada.",
+			"Sirva com arroz e farinha de mandioca."
+		]
+	},
+	{
+		"id": 6,
+		"prato": "Baião de Dois",
+		"caminhoImg": "http://www.tipicas.com.br/wp-content/uploads/2012/08/baiao-de-dois.jpg",
+		"link": "baião-de-dois",
+		"iframe": "https://www.youtube.com/embed/hAp9rqsmcqs",
+		"historia": "ocê sabia que o que o Acre tem de pequeno em território possui em grandiosidade gastronômica? Pois é. Geralmente quem passa por esse estado localizado na região norte de nosso Brasil-sil-sil costuma voltar com alguns quilinhos a mais. Quem é de lá, precisa se controlar. E não é pra menos. É cada prato de dar água na boca. A cultura acreana tem muita influência nordestina, por conta dos migrantes que chegaram ao Acre para tentar ganhar a vida com a borracha.",
+		"ingredientes": [
+			"2 e 1/2 xícaras (chá) de arroz",
+			"150g de queijo de coalho cortado em fatias finas",
+			"200g de toucinho defumado",
+			"1/2 kg de feijão verde, ou feijão de corda",
+			"2 tabletes de caldo de bacon",
+			"1 pimenta de cheiro amarela",
+			"1 dente de alho amassado",
+			"1 xícara de salsinha ou coentro picado",
+			"4 colheres (sopa) de óleo",
+			"1 cebola grande picada ou ralada",
+			"1 paio (cortado em rodelas)"
+		],
+		"modo": [
+			"Numa panela adicione o feijão junto com o paio e o caldo de bacon dissolvido em 2500ml de água fria e cozinhe.",
+			"Caso o feijão escolhido seja o mulatinho, melor usar a panela de pressão.",
+			"Deixe cozinhar em fogo baixo por cerca de 1 hora.",
+			"Em outra panela, doure a cebola e o alho, no óleo.",
+			"Adicione o coentro e o arroz e refogue bem até ficar brilhante e um pouco transparente.",
+			"Acrescente o feijão e o paio já cozidos, juntamente com o caldo.",
+			"Misture bem, tampe a panela cozinhe o arroz até que fique com consistência cremosa.",
+			"Durante o cozimento do arroz, se necessário adicione água, tomando o cuidado para não deixar a mistura ficar seca.",
+			"Junte a salsinha e mexa com cuidado.",
+			"Cubra o arroz com as fatias de queijo. Tampe a panela novamente e deixe que o vapor derreta o queijo."
+		]
+	},
+	{
+		"id": 7,
+		"prato": "Galinha Picante",
+		"caminhoImg": "http://www.tipicas.com.br/wp-content/uploads/2012/08/galinha-picante.jpg",
+		"link": "galinha-picante",
+		"iframe": "https://www.youtube.com/embed/cd3pfM_ngdk",
+		"historia": "Você sabia que o que o Acre tem de pequeno em território possui em grandiosidade gastronômica? Pois é. Geralmente quem passa por esse estado localizado na região norte de nosso Brasil-sil-sil costuma voltar com alguns quilinhos a mais. Quem é de lá, precisa se controlar. E não é pra menos. É cada prato de dar água na boca. A cultura acreana tem muita influência nordestina, por conta dos migrantes que chegaram ao Acre para tentar ganhar a vida com a borracha.",
+		"ingredientes": [
+			"230g de galinha crua picada",
+			"1 colher de chá de raiz de gengibre picada",
+			"125 ml de caldo de galinha",
+			"3 colheres de sopa de óleo de amendoim",
+			"1 colher de chá de maisena",
+			"340g de massa de ovo",
+			"2 colheres de sopa de molho de soja",
+			"2 dentes de alho picado",
+			"1/2 xícara chá de cogumelos",
+			"1 xícara de chá de repolho picado",
+			"1/2 colher de chá de flocos de pimenta vermelha"
+		],
+		"modo": [
+			"Em uma frigideira grande, aqueça o óleo e frite a galinha até dourar.",
+			"Adicione o alho, o gengibre e os flocos de pimenta, deixando fritar durante cerca de 1 minuto.",
+			"Junte os cogumelos, o repolho, o caldo de galinha, cozinhando em fogo baixo durante cerca de 5 minutos.",
+			"Misture a maisena com o molho de soja. Adicione à galinha e cozinhe em fogo baixo até o molho engrossar.",
+			"Ferva 2 litros de água com sal e cozinhe a massa. Escorra e coloque numa travessa.",
+			"Cubra com a galinha e sirva."
+		]
+	},
+	{
+		"id": 8,
+		"prato": "Receita de Picanha Assada no Forno",
+		"caminhoImg": "http://static.receitastipicas.com/upload/receitas/miniaturas/b7/b797b147b3e2a51ee3d7c6a008ad3fe5.jpg",
+		"link": "receita-de-picanha-assada-no-forno",
+		"iframe": "https://www.youtube.com/embed/XLoJpVHuASs",
+		"historia": "ocê sabia que o que o Acre tem de pequeno em território possui em grandiosidade gastronômica? Pois é. Geralmente quem passa por esse estado localizado na região norte de nosso Brasil-sil-sil costuma voltar com alguns quilinhos a mais. Quem é de lá, precisa se controlar. E não é pra menos. É cada prato de dar água na boca. A cultura acreana tem muita influência nordestina, por conta dos migrantes que chegaram ao Acre para tentar ganhar a vida com a borracha.",
+		"ingredientes": [
+			"01 picanha",
+			"02 tabletes de caldo de carne",
+			"250gr de margarina",
+			"02 colheres (sopa) de molho inglês",
+			"01 cebola grande ralada",
+			"Sal, alho e pimenta"
+		],
+		"modo": [
+			"Tempere bem a picanha com alho socado, sal e pimenta e deixe tomar gosto por 02 horas.",
+			"Coloque em uma assadeira, com a parte da gordura para baixo. Derrame sobre ela o molho inglês misturado com o caldo de carne, margarina e cebola ralada.",
+			"Cubra com papel alumínio e asse em forno quente por 20 minutos.",
+			"Retire o papel, vire a parte da gorda para cima e asse por mais 25 minutos.",
+			"Retire e sirva com arroz branco, vinagrete e mandioca cozida."
+		]
+	},
+	{
+		"id": 9,
+		"prato": "Receita de Picanha Assada no Forno 2",
+		"caminhoImg": "http://static.receitastipicas.com/upload/receitas/miniaturas/b7/b797b147b3e2a51ee3d7c6a008ad3fe5.jpg",
+		"link": "receita-de-picanha-assada-no-forno-2",
+		"iframe": "https://www.youtube.com/embed/XLoJpVHuASs",
+		"historia": "Quem é de lá, precisa se controlar. E não é pra menos. É cada prato de dar água na boca. A cultura acreana tem muita influência nordestina, por conta dos migrantes que chegaram ao Acre para tentar ganhar a vida com a borracha.",
+		"ingredientes": [
+			"01 picanha",
+			"02 tabletes de caldo de carne",
+			"250gr de margarina",
+			"02 colheres (sopa) de molho inglês",
+			"01 cebola grande ralada",
+			"Sal, alho e pimenta"
+		],
+		"modo": [
+			"Tempere bem a picanha com alho socado, sal e pimenta e deixe tomar gosto por 02 horas.",
+			"Coloque em uma assadeira, com a parte da gordura para baixo. Derrame sobre ela o molho inglês misturado com o caldo de carne, margarina e cebola ralada.",
+			"Cubra com papel alumínio e asse em forno quente por 20 minutos.",
+			"Retire o papel, vire a parte da gorda para cima e asse por mais 25 minutos.",
+			"Retire e sirva com arroz branco, vinagrete e mandioca cozida."
+		]
+	}
+]
